@@ -1,4 +1,4 @@
-public class Pet {
+	public class Pet {
 		private String name;
 		private String ownerName;
 		private String color;

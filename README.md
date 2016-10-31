@@ -1,10 +1,10 @@
 public class Pet {
-			private String name;
-			private String ownerName;
-			private String color;
-			protected Integer sex;
-			public static final int MALE = 3;
-			public static final int FEMALE = 2;
+		private String name;
+		private String ownerName;
+		private String color;
+		protected Integer sex;
+		public static final int MALE = 3;
+		public static final int FEMALE = 2;
 			public static final int SPARYED = 1;
 			
 			
